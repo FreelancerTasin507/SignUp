@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(56, 56, 90);
+    box-sizing: border-box;
+}
+.signup{
+    border: 1px solid black;
+    margin-top:100px ;
+    margin-left:39%;
+    width: 177px;
+    height: 270px;
+    text-align: center;
+    padding: 70px;
+    background-color: rgb(28, 27, 87);
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+}
+.h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(34, 206, 206);
+    margin: 0;
+}
+.input{
+    border-radius: 10px;
+    margin: 10px;
+    width: 160px;
+    height: 15px;
+    padding: 2px;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+}
+.input:hover{
+    background-color: cyan;
+    color: black;
+    border: 2px solid black;
+}
+.submit{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 90px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px black;
+}
+.submit:hover{
+   border: 2px solid black;
+}
+marquee{
+    border: 2px solid black;
+    background-color: rgb(233, 55, 55);
+    font-family: sans-serif;
+}
